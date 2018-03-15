@@ -10,7 +10,7 @@ import urllib.request
 MainPath = 'C:/Users/Francesco/Desktop/chatbot/'
 path = MainPath + 'chatbot_data/processedKBS/'
 #API-key
-key = '831f9a42-1053-477a-8992-7e4fe4f6b1c4' # babelnet API-key
+key = 'INSERT_BABELNET_API_KEY' # babelnet API-key
 
 # extract number of observations
 number_of_items = 'http://151.100.179.26:8080/KnowledgeBaseServer/rest-api/items_number_from?id=0&key=' + key
