@@ -1,0 +1,201 @@
+,text,relation,predicted,true,check
+0,Is spermatic cord composed by cremasteric muscle | Health and medicine | PART,PART_YN,no,yes,0
+1,"Where is Yenice , Alanya | Geography and places | PLACE",PLACE_G,District of Alanya,District of Alanya,1
+2,Where is Konuvere | Geography and places | PLACE,PLACE_G,Sucousan,Märjamaa,0
+3,What family do cytoplasm belong to | Biology | SPECIALIZATION,SPECIALIZATION_G,It's a basophilic,It's a basophilic,1
+4,Does Yoyogi include Koppenbergcross | Sport and recreation | PART,PART_YN,no,no,1
+5,What is the size of Musteloidea | Animals | SIZE,SIZE_G,type,broad,0
+6,"Is Manfred Erjautz a contemporary artist | Art, architecture, and archaeology | GENERALIZATION",GENERALIZATION_YN,yes,yes,1
+7,Is Krishnagiri Lok Sabha constituency composed by Cannondale station | Politics and government | PART,PART_YN,no,no,1
+8,Where is Chichli located | Transport and travel | PLACE,PLACE_G,India,Gadarwara,0
+9,Did St. Louis Metropolitan Statistical Area include Shore Road Pumping Station | Transport and travel | PART,PART_YN,no,no,1
+10,Is Acre an example of states of Brazil | Geography and places | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+11,Was Japanese Archipelago at the epoch of 1997 | Warfare and defense | TIME,TIME_YN,no,no,1
+12,Is Nicholls in Acadiana | Language and linguistics | PLACE,PLACE_YN,yes,yes,1
+13,Can you give me an example of massive thing | Geography and places | SIZE,SIZE_E,"Sure, an example of a massive size is Biscuit Fire wildfire",PATTERN4546,1
+14,"Is Rock Chapel a monuments | Art, architecture, and archaeology | GENERALIZATION",GENERALIZATION_YN,yes,yes,1
+15,Where is Thomas Saunders Secondary School placed | Education | PLACE,PLACE_G,New Jersey,Kingstown,0
+16,Where can Sedona be found | Geography and places | PLACE,PLACE_G,Los Angeles,northern Arizona,0
+17,Where is Grzegorzowice Wielkie | Geography and places | PLACE,PLACE_G,Iwanowice,Iwanowice,1
+18,Where is Yoho National Park | Geography and places | PLACE,PLACE_G,Canadian Rocky Mouncainsitive,Canadian Rocky Mountains,0
+19,Is Stem in Granville County | Language and linguistics | PLACE,PLACE_YN,yes,yes,1
+20,Where is Sarbicko | Geography and places | PLACE,PLACE_G,Sadkowice,Tuliszków,0
+21,Is a geostationary orbit an instance of orbit | Physics and astronomy | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+22,Where is Zubowice-Kolonia | Geography and places | PLACE,PLACE_G,Komarów-Osada,Komarów-Osada,1
+23,What is a USA | Computing | SPECIALIZATION,GENERALIZATION_G,first nidge,It's a open-source,0
+24,Do husband have surname | Language and linguistics | PART,PART_YN,yes,yes,1
+25,What is dinghies used for | Warfare and defense | HOW_TO_USE,HOW_TO_USE_G,It can be used to fly an asymmetrical spinnal atomite,It can be used to fly an asymmetrical spinnaker,0
+26,Is Emergency management an example of discipline | Education | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+27,What is playsuit | Mathematics | GENERALIZATION,GENERALIZATION_G,wate,item,0
+28,Is phrase used for construction materials | Music | PURPOSE,PURPOSE_YN,yes,yes,1
+29,Is North Turton a fraction of Disney's Activity Center | Games and video games | PART,PART_YN,no,no,1
+30,Where is South Mountain State Battlefield | Warfare and defense | PLACE,PLACE_G,New Jersey,Washington County,0
+31,What is a part of Durham | Geography and places | PART,PART_E,Chatham County,PATTERN3153,1
+32,"What is an example of a think-tank | Business, economics, and finance | SPECIALIZATION",SPECIALIZATION_E,Center,PATTERN5445,1
+33,"What is a blazon | Heraldry, honors, and vexillology | GENERALIZATION",SPECIALIZATION_G,It's a angleschueds,description,0
+34,Where is Walter E. Hoffman United States Courthouse | Transport and travel | PLACE,PLACE_G,Jura Dontain County,downtown Norfolk,0
+35,What is iron-hydrogen resistor | Engineering and technology | GENERALIZATION,GENERALIZATION_G,publich campar,current source,0
+36,What is Tisza Cipő | Language and linguistics | GENERALIZATION,GENERALIZATION_G,darafficer,brand,0
+37,Is left winger a fraction of Greece national under-20 football team | Sport and recreation | PART,PART_YN,no,yes,0
+38,"Is Barnack an example of type | Art, architecture, and archaeology | GENERALIZATION",GENERALIZATION_YN,yes,no,0
+39,What is a retraction | Law and crime | GENERALIZATION,GENERALIZATION_G,stating torry,statement,0
+40,What is wave packet | Biology | GENERALIZATION,GENERALIZATION_G,pastry,burst,0
+41,Where is Smith Point Bridge | Geography and places | PLACE,PLACE_G,Lawrence,south shore,0
+42,How can I use xeriscaping | Animals | HOW_TO_USE,HOW_TO_USE_G,It can be used to screen and test new drugs,It can be used to attract hummingbird,0
+43,Who is Henrik Dahl | Sport and recreation | GENERALIZATION,GENERALIZATION_G,a scheer,an coach,0
+44,How big is Park | Transport and travel | SIZE,TIME_G,raspberry or winer,small,0
+45,What is Green | Textile and clothing | GENERALIZATION,GENERALIZATION_G,confect of rodier,fashion designer,0
+46,Where is Cliff Village | Geography and places | PLACE,PLACE_G,Virginia Beach,Newton County,0
+47,Is archipelago included in Olympic Games | Geography and places | PART,PART_YN,no,no,1
+48,Where is Crafers | Transport and travel | PLACE,PLACE_G,India,Adelaide Hills,0
+49,Where is Sainik School Bijapur located | Education | PLACE,PLACE_G,Karnataka,Karnataka,1
+50,"Where is Beverly placed | Art, architecture, and archaeology | PLACE",PLACE_G,Chicago,Chicago,1
+51,Where is Whaley Lake placed | Geography and places | PLACE,PLACE_G,Beirway,New York State,0
+52,Is stocky Sen batsman | Numismatics and currencies | SIZE,SIZE_YN,yes,yes,1
+53,Where is Wyoming Dinosaur Center | Animals | PLACE,PLACE_G,Indiana,Thermopolis,0
+54,Was Northwestern Indiana a fraction of Realm of Sweden | Geography and places | PART,PART_YN,no,no,1
+55,Is Pre-consumer recycling a form | Language and linguistics | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+56,Where is Northern Elementary School located | Politics and government | PLACE,PLACE_G,Dillsburg,Dillsburg,1
+57,Is there anything belonging to the class of cricket | Sport and recreation | GENERALIZATION,GENERALIZATION_G,Premepaintm,Blackwood Town Cricket Club,0
+58,Is Odessa a administrative center | Geography and places | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+59,Is there anything belonging to the class of telomere | Biology | GENERALIZATION,GENERALIZATION_G,machine piscops,telomerase,0
+60,Where is Shady Side located | Transport and travel | PLACE,PLACE_G,Chesapeake Bay,Chesapeake Bay,1
+61,Can Gibson be found in U.S. Highway | Transport and travel | PLACE,PLACE_YN,yes,yes,1
+62,What taste is similar to pussy | Animals | TASTE,SIMILARITY_G,a collibority,Pepsi Cola,0
+63,Was Colorado Springs Metropolitan Statistical Area a fraction of Mongol Empire | Geography and places | PART,PART_YN,no,no,1
+64,Is Strong a student | Education | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+65,Is St. Louis Metropolitan Statistical Area composed by U.S. 1 | Transport and travel | PART,PART_YN,no,no,1
+66,"How can I use privately held company | Business, economics, and finance | HOW_TO_USE",HOW_TO_USE_G,It can be used to study cell signaling,It can be used to study cell signaling,1
+67,Is there anything belonging to the class of chromosome | Biology | GENERALIZATION,GENERALIZATION_G,stress fiber,telomere,0
+68,How can Vitamin K1 be used | Health and medicine | HOW_TO_USE,HOW_TO_USE_G,It can be used to write Late Middle Chinese,Vitamin K1 can be used as antidote,0
+69,When did Utrenja took place | Music | PLACE,PLACE_G,Shahdol district,Kraków,0
+70,Is Harviell placed in Poplar Bluff | Geography and places | PLACE,PLACE_YN,yes,yes,1
+71,"Is umbrella an example of canopy | Art, architecture, and archaeology | GENERALIZATION",GENERALIZATION_YN,yes,yes,1
+72,Is Cameroon a part of Lost Tribes of Israel | Politics and government | PART,PART_YN,no,no,1
+73,Where is Siruvachur | Geography and places | PLACE,PLACE_G,Petrich,Perambalur,0
+74,Where is Győrladamér | Geography and places | PLACE,PLACE_G,Győr-Moson-Sopron,Győr-Moson-Sopron,1
+75,Is Basque cuisine a fraction of Latin American cinema | Food and drink | PART,PART_YN,no,no,1
+76,Where is Charantonnay | Geography and places | PLACE,PLACE_G,Greeney,Isère,0
+77,Is the taste of Sweat vinegar | Food and drink | TASTE,TASTE_YN,yes,yes,1
+78,Was 2000 Summer Olympics a fraction of Cape Chignecto Provincial Park | Geography and places | PART,PART_YN,no,no,1
+79,Is Beards Creek Primitive Baptist Church placed in Road | Transport and travel | PLACE,PLACE_YN,yes,yes,1
+80,Did Vechtstreek include Atlanta Silverbacks U23's | Geography and places | PART,PART_YN,no,no,1
+81,Was Sporades composed by The Surbiton Trophy | Geography and places | PART,PART_YN,no,no,1
+82,"Where is Ibestad Church placed | Art, architecture, and archaeology | PLACE",PLACE_G,South Africa,Hamnvik,0
+83,Is Newsweek an instance of news magazine | Literature and theatre | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+84,"Is Dripsey Castle located in Coachford | Art, architecture, and archaeology | PLACE",PLACE_YN,yes,yes,1
+85,Where is Potrero Hill placed | Biology | PLACE,PLACE_G,Providence County,SOMA,0
+86,Is Brockman Airport placed in Australia | Transport and travel | PLACE,PLACE_YN,yes,yes,1
+87,Is Claidi Journals a book | Literature and theatre | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+88,What is HBcAg | Biology | GENERALIZATION,GENERALIZATION_G,area,viral protein,0
+89,Where is Namsau | Geography and places | PLACE,PLACE_G,Langua,Bhamo,0
+90,Where is Appalachian State University | Education | PLACE,PLACE_G,Lake Supronashepsea,Boone,0
+91,"Where is Karadağ , Kaş | Geography and places | PLACE",PLACE_G,District of Kaş,District of Kaş,1
+92,Is culture of Darjeeling a momo | Food and drink | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+93,Is CRC Press an instance of publishing group | Literature and theatre | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+94,Is Las Piñas an example of city | Geography and places | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+95,Where can Waddell Lake be found | Warfare and defense | PLACE,PLACE_G,Ottara,Washington,0
+96,Where is Rapides Bank and Trust Company Building | Geography and places | PLACE,PLACE_G,Western Finland,"Alexandria, Louisiana",0
+97,Does Kingdom of Sicily include Black Sea Fleet | Warfare and defense | PART,PART_YN,no,no,1
+98,Is Tadhamon International Islamic Bank located in Republic | Politics and government | PLACE,PLACE_YN,yes,yes,1
+99,Is Iyad Ag Ghaly included in Vechtstreek | Warfare and defense | PART,PART_YN,no,no,1
+100,What is Cabinet | Politics and government | GENERALIZATION,GENERALIZATION_G,Benvidrits can be inverse,Member of Parliament,0
+101,Is cream cracker an example of biscuit | Food and drink | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+102,What is Dulwich College | Education | GENERALIZATION,GENERALIZATION_G,purlish screef,public school,0
+103,Where is Saddle Peak placed | Geography and places | PLACE,PLACE_G,North Andaman Island,North Andaman Island,1
+104,"What is head badge made of | Heraldry, honors, and vexillology | MATERIAL",MATERIAL_G,seat,metal,0
+105,Is Traditional animation an example of technique | Computing | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+106,What is Tobin | Law and crime | GENERALIZATION,GENERALIZATION_G,sport,serial killer,0
+107,Can a chemical name be a chemical formula | Chemistry and mineralogy | SPECIALIZATION,SPECIALIZATION_YN,yes,yes,1
+108,Where is Stepin Lug placed | Geography and places | PLACE,PLACE_G,New York,Belgrade,0
+109,"what shape does the petals have | Heraldry, honors, and vexillology | SHAPE",SHAPE_G,Jasaka,the petals have a magenta shape,0
+110,"Is Plaza Mulato Gil de Castro in Plaza Baquedano | Art, architecture, and archaeology | PLACE",PLACE_YN,yes,yes,1
+111,"Is Great Kills, Staten Island a part of a major outbreak | Meteorology | PART",PART_YN,no,no,1
+112,Where is Grinnell College placed | Animals | PLACE,PLACE_G,Illinois,Iowa,0
+113,What is Idstein | Geography and places | GENERALIZATION,GENERALIZATION_G,brand,town,0
+114,What is a part of Columbia River | Geography and places | PART,PART_E,Bumping River,PATTERN5674,1
+115,What is a part of Cooperating Colleges of Greater Springfield | Education | PART,PART_E,Bay Path University,PATTERN8253,1
+116,Where is Iliny | Geography and places | PLACE,PLACE_G,New Rovet,Nógrád,0
+117,Where is SNUE located | Geography and places | PLACE,PLACE_G,South America,Seoul,0
+118,What can Grains be used for | Textile and clothing | PURPOSE,PURPOSE_G,measuring gunpowder and smokeless powder charge,measuring gunpowder and smokeless powder charges,0
+119,"Is STI Knives an example of company | Business, economics, and finance | GENERALIZATION",GENERALIZATION_YN,yes,yes,1
+120,Is Journal an instance of dual language | Education | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+121,What is Clint Malarchuk used for | Sport and recreation | HOW_TO_USE,HOW_TO_USE_G,It can be used to select Joe Sakic,It can be used to select Joe Sakic,1
+122,Where is Radoynovo | Geography and places | PLACE,PLACE_G,Station,Sredets,0
+123,Is Sabayad an example of type | Food and drink | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+124,Is A50 a trunk road | Transport and travel | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+125,What is builtin command used for | Computing | HOW_TO_USE,HOW_TO_USE_G,It can be used to present a goilt expents,It can be used to remove jobs,0
+126,Where is Al Masarrah | Geography and places | PLACE,PLACE_G,Makkah,Makkah,1
+127,"What is British Film Institute | Business, economics, and finance | GENERALIZATION",GENERALIZATION_G,gnists,charitable organisation,0
+128,What is an example of an acronym | Language and linguistics | SPECIALIZATION,SPECIALIZATION_E,POSDCORB,PATTERN1901,1
+129,Is IX Bomber Command a part of Triathlon at the 2004 Summer Olympics | Warfare and defense | PART,PART_YN,no,no,1
+130,Is Catcher a type of position | Sport and recreation | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+131,Was New York City composed by Beach handball | Geography and places | PART,PART_YN,no,no,1
+132,Is Corum a series | Mathematics | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+133,What is a part of Iowa High School Athletic Association | Education | PART,PART_E,Catholic High School,PATTERN3442,1
+134,Where is Kilimán | Geography and places | PLACE,PLACE_G,Szabolcziz,Zala,0
+135,Is morin khuur a bowed stringed instrument | Mathematics | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+136,Is Fetakgomo Local Municipality placed in Africa | Physics and astronomy | PLACE,PLACE_YN,yes,yes,1
+137,Is the highway short | Transport and travel | SIZE,SIZE_YN,yes,yes,1
+138,What is Samsung Wave II S8530 made of | Chemistry and mineralogy | MATERIAL,MATERIAL_G,metal alloy,metal alloy,1
+139,Who is an example of an novelist | Literature and theatre | SPECIALIZATION,SPECIALIZATION_E,T. M. McNally,PATTERN4389,1
+140,Where is Central Bank of Liberia | Geography and places | PLACE,PLACE_G,Vigo County,Monrovia,0
+141,Does Oak Creek-Franklin Joint School District include largest military component | Warfare and defense | PART,PART_YN,no,no,1
+142,Is Aldersund Church located in Haugland | Language and linguistics | PLACE,PLACE_YN,yes,yes,1
+143,Is Sangli a part of Colorado Plateau | Geology and geophysics | PART,PART_YN,no,no,1
+144,"What is a part of Springfield, Missouri | Geography and places | PART",PART_E,Bolivar,PATTERN11718,1
+145,Is Faculty of Philosophy composed by Kishore Kumar | Philosophy and psychology | PART,PART_YN,no,no,1
+146,Where is desktop environment used | Computing | HOW_TO_USE,HOW_TO_USE_G,It can be used to film scrowice as in Oryamins Chenter,It can be used to paste,0
+147,What is University of Madras | Education | GENERALIZATION,GENERALIZATION_G,metal varies,state university,0
+148,Is Highland Regional High School a fraction of Western Roman Empire | Education | PART,PART_YN,no,no,1
+149,Did Bangladesh include Camden Market | Transport and travel | PART,PART_YN,no,no,1
+150,Was United Kingdom composed by 2008 Summer Olympics | Sport and recreation | PART,PART_YN,no,no,1
+151,Where is Gulf Wind Farm | Meteorology | PLACE,PLACE_G,Newark,Kenedy County,0
+152,Was Kingdom of Hungary a part of Spanish crown | Royalty and nobility | PART,PART_YN,no,no,1
+153,What is Vegemite | Food and drink | GENERALIZATION,GENERALIZATION_G,university,Australia,0
+154,Did Coleg Cambria include reclaimed land | Geography and places | PART,PART_YN,no,no,1
+155,What is Surabhi | Chemistry and mineralogy | GENERALIZATION,GENERALIZATION_G,group,group,1
+156,"Is Weber School District in Northern Utah | Art, architecture, and archaeology | PLACE",PLACE_YN,yes,yes,1
+157,Was Bromberg a fraction of Habsburg lands | Geography and places | PART,PART_YN,no,no,1
+158,Did Citytrain include Guaporé River | Transport and travel | PART,PART_YN,no,no,1
+159,"What is Societas Rosicruciana | Religion, mysticism and mythology | GENERALIZATION",GENERALIZATION_G,peninsulaciralization,Rosicrucian order,0
+160,What is bracketing made of | Language and linguistics | MATERIAL,MATERIAL_G,rumage aring curte,parts,0
+161,Is Aberdeen University Shinty Club a club | Sport and recreation | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+162,What constitutes Dendeng | Food and drink | MATERIAL,MATERIAL_G,short pastry,beef,0
+163,Where can Ramkhamhaeng Advent International School be found | Geography and places | PLACE,PLACE_G,Boone National Forest,Bangkok,0
+164,Where is Strzeszkowice Małe | Geography and places | PLACE,PLACE_G,Thieety Bayon PPracin,Niedrzwica Duża,0
+165,What shape is Feijoa | Animals | SHAPE,SHAPE_G,plantacy muringed,egg,0
+166,Is Alliance of European Conservatives and Reformists a European political party | Politics and government | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+167,Is Baise in Autonomous Prefecture | Geography and places | PLACE,PLACE_YN,yes,yes,1
+168,Where is Las Rozas located | Music | PLACE,PLACE_G,Gera River,Segovia,0
+169,What is Krembanan | Food and drink | GENERALIZATION,GENERALIZATION_G,an villa,candy bar,0
+170,Is 2013 European Tour composed by Croatia | Sport and recreation | PART,PART_YN,no,no,1
+171,Where is Şehriban | Geography and places | PLACE,PLACE_G,District of Balâ,District of Balâ,1
+172,Is Buckeye candy an example of umbrella label | Food and drink | GENERALIZATION,GENERALIZATION_YN,yes,no,0
+173,Are Square Islands placed in Canada | Sport and recreation | PLACE,PLACE_YN,yes,yes,1
+174,What kind of object is primary amine | Chemistry and mineralogy | SPECIALIZATION,SPECIALIZATION_G,It's a angel indeymanter,It's a stereogenic center,0
+175,What is Mago National Park | Geography and places | GENERALIZATION,GENERALIZATION_G,racen,National Parks,0
+176,What is Ema Datshi made of | Food and drink | MATERIAL,MATERIAL_G,device,chili pepper,0
+177,Is album sound clamorous | Music | SOUND,SOUND_YN,yes,yes,1
+178,What is Jaral del Progreso | Geography and places | GENERALIZATION,GENERALIZATION_G,city,city,1
+179,Was Vineland composed by umbraculum | Geography and places | PART,PART_YN,no,no,1
+180,Is Tatra 77 an example of automobile | Transport and travel | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+181,Can you give me an example of wide thing | Animals | SIZE,SIZE_E,"Sure, an example of a wide size is Nightjar variety",PATTERN13921,1
+182,Is Maschinenmensch an example of fictional character | Media | GENERALIZATION,GENERALIZATION_YN,yes,yes,1
+183,What is Mykyrokka | Food and drink | GENERALIZATION,GENERALIZATION_G,inimporgation,soup,0
+184,Is Dutch colony composed by Sanford | Geography and places | PART,PART_YN,no,no,1
+185,Can King Salmon be found in Naknek Lake | Food and drink | PLACE,PLACE_YN,yes,yes,1
+186,Did Yulia Tymoshenko Bloc include biosphere | Politics and government | PART,PART_YN,no,no,1
+187,What is the class of Milk | Farming | GENERALIZATION,GENERALIZATION_G,branch of philosophy,liquid,0
+188,What is an example of a prerequisite | Law and crime | SPECIALIZATION,SPECIALIZATION_E,legal personality,PATTERN5069,1
+189,Where is Elephant | Animals | PLACE,PLACE_G,Santa Maria,Santa Maria,1
+190,Where can Los Montones Airport be found | Politics and government | PLACE,PLACE_G,Manchester Township,Republic,0
+191,"Is Great Mosque of Kano an example of mosque | Religion, mysticism and mythology | GENERALIZATION",GENERALIZATION_YN,yes,yes,1
+192,Is Jörgen included in Champa | History | PART,PART_YN,no,no,1
+193,Where can Sarayaku be found | Geography and places | PLACE,PLACE_G,North And Leke,Puyo,0
+194,Where is Wulensi located | Politics and government | PLACE,PLACE_G,Great Blue Hill,Ghana,0
+195,Is Saint Andrews located in Charlotte County | Transport and travel | PLACE,PLACE_YN,yes,yes,1
+196,What is Pâté | Food and drink | GENERALIZATION,GENERALIZATION_G,device,mixture,0
+197,Where is Rzewuszyce | Geography and places | PLACE,PLACE_G,Góra Świętej Małgorzaty,Kluczewsko,0
+198,Where is CSTARS placed | Geography and places | PLACE,PLACE_G,Court Squarte,Miami,0
+199,Where is Governors Island National Monument | Geography and places | PLACE,PLACE_G,New Orlanges,New York,0

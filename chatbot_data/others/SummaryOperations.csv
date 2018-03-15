@@ -1,0 +1,12 @@
+code,code_name,bot_reply,topic,next
+start,first_msg,0q,,0
+0,hi,1q,,1
+1,start,2q,,2
+2,topic,3q-4q,topic,3-4
+3,enriching_querying,31q,topic,31
+31,answer,311q-312q,topic,311-312
+311,yes,1q-3q-end,topic,1-3-end
+312,no,3121q-3q,topic,3
+4,ask_me,41q,topic,41
+41,question,411q-412q,topic,411-4
+411,yes,1q-4q-end,topic,1-4-end
