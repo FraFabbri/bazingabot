@@ -1,4 +1,4 @@
-# Bazinga-bot - A simple but effective knowledge-bot
+# BazingaBot - A simple but effective knowledge-bot
 
 ## Intro
 The bot has been tought to be able to answer to (almost...) all the queries in the dataset (330000 distinct observations). 
